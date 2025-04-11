@@ -9,10 +9,7 @@ Este projeto realiza uma análise integrada dos dados de vendas de quatro lojas.
 - [Instalação](#instalação)
 - [Como Executar](#como-executar)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Problemas Conhecidos e Soluções](#problemas-conhecidos-e-soluções)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
+-
 ## Recursos do Projeto
 
 - **Análise Financeira:** Cálculo do faturamento total das lojas.
