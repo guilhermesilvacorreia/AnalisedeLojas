@@ -41,7 +41,7 @@ As seguintes dependências em Python também são necessárias:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/guilhermesilvacorreia/AnalisedeLojas.git
-   cd loja-analytics
+   cd AluraStoreBr(1)
 2. Instale as dependências (preferencialmente em um ambiente virtual):
    ```bash
       pip install pandas matplotlib seaborn folium
