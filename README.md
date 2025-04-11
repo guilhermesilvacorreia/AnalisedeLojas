@@ -1,4 +1,4 @@
-# Loja Analytics
+# Lojas Análises
 
 Este projeto realiza uma análise integrada dos dados de vendas de quatro lojas. São avaliados indicadores como faturamento, distribuição de categorias, avaliações de clientes, frequência dos produtos vendidos e custo do frete. Além disso, o projeto utiliza dados geográficos (latitude e longitude) para mapear a distribuição das vendas, permitindo identificar padrões regionais e insights estratégicos.
 
